@@ -1,0 +1,38 @@
+TP2
+1-Créez un répertoire dans le bureau, et nommez le TP2
+
+2-Créez un nouveau fichier dans ce répertoire et nommez le tp2.py
+
+Dans ce fichier écrire le code Python qui permet d’effectuer les opérations suivantes :
+
+Demander à l’utilisateur d’entrer 4 nombres
+
+Utiliser une boucle for pour lire ces nombres un à un et les ajouter à une liste vide. (vous pouvez utiliser la fonction range pour la boucle for)
+
+En considérant que les nombres de cette liste correspondent à des rayons de 4 cercles, créer les 3 listes suivantes  (vous pouvez utiliser la constante pi du module math pour la valeur de pi)
+
+surf : contient les surfaces correspondantes aux 4 cercles
+
+circ : contient les circonférences correspondantes aux 4 cercles
+
+diam : contient les diamètres correspondants aux 4 cercles.
+
+Ouvrez le commande prompt à partir d’anaconda, puis déplacez vous vers le dossier TP2
+
+Exécutez votre code en utilisant la commande python suivi du nom de votre fichier qui contient votre code.
+
+Remarques concernant la question 3.3 :
+
+Écrire le code correspondant à la question 3.3 de deux manières différentes :
+
+en utilisant la boucle for
+
+en utilisant les listes en compréhension. Exemple la liste en compréhension suivante [x**2 for x in [1,2,3,4]] crée une liste des carrés des valeurs de la liste [1,2,3,4]. Le résultat sera : [1,4,9,16]
+
+pour utiliser un module python, il faut d’abord l’importer en utiliser l’instruction import
+
+Les nombres doivent être arrondis à 2 décimales (à deux chiffres après la virgule). Vous pouvez utiliser pour cela la fonction round.
+
+
+Vous pouvez utiliser interpréteur Python pour avoir de l’aide sur n’importe quelle fonction ou module en utilisant la fonction help(). Vous lui donnez en paramètre le nom de la fonction ou du module en question.
+
