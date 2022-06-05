@@ -1,0 +1,12 @@
+1- Installation d'Anaconda:
+
+
+2-Introduction à python: 
+ suivez les étapes décrites dans les deux pages suivantes:
+ 3.Introduction informelle à python et 
+4.D'autres outils de contrôle de flux 
+pour vous familiariser avec le langage Python.
+******
+https://docs.python.org/fr/3.9/tutorial/introduction.html
+*****
+https://docs.python.org/fr/3.9/tutorial/controlflow.html
